@@ -4,6 +4,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deadrat77.deadrat77&left_color=crimson"  />
+</div>
+
+###
+
 <h2 align="center">Greetings, I'm Mothy</h2>
 
 ###
@@ -16,11 +22,19 @@
 
 ###
 
+<h5 align="left">💌Contacts: <br>nope@nuhah.nope<br>@redacted on insta</h5>
+
+###
+
+<p align="center">My Blog (where I post guides and funny haha stuff)</p>
+
+###
+
 <h4 align="left">🛠️ Languages & Tools:</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
@@ -44,7 +58,14 @@
 
 ###
 
-<p align="left">Currently working on Lazy 💩 and other small automation tools.</p>
+<p align="left">⚙️Projects:<br>Currently working on Lazy 💩 and other small automation tools.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deadrat77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deadrat77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 
