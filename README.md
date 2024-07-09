@@ -22,7 +22,7 @@
 
 ###
 
-<h5 align="left">💌Contacts: <br>nope@nuhah.nope<br>@redacted on insta</h5>
+<h5 align="left">💌Contacts: <br>johnnymctits@national.shitposting.agency<br></h5>
 
 ###
 
